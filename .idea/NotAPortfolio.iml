@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/portfolio/src" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/portfolio/tests" isTestSource="true" packagePrefix="App\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/property-info" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/intl" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/framework-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/form" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/browser-kit" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/web-link" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/stopwatch" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/doctrine-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/mailer" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/asset" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/security-core" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/security-http" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/phpunit-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/web-profiler-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/polyfill-intl-icu" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/property-access" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/flex" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/serializer" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/http-client-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/dom-crawler" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/twig-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/proxy-manager-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/debug-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/twig-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/security-guard" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/options-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/validator" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/security-csrf" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/notifier" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/cache-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/monolog-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/var-exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/expression-language" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/maker-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/config" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/monolog-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/laminas/laminas-zendframework-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/laminas/laminas-eventmanager" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/laminas/laminas-code" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/sensio/framework-extra-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/twig/extra-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/psr/link" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/friendsofphp/proxy-manager-lts" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/doctrine/doctrine-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/doctrine/deprecations" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/doctrine/migrations" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/doctrine/sql-formatter" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/doctrine/doctrine-migrations-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/dotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/portfolio/vendor/symfony/security-bundle" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

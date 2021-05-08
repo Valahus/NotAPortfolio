@@ -15,7 +15,7 @@
 <br/><br/>
 
 <div id="footer">
-    Created by Mihai BOSIICA</a>
+    Created by Mihai BOSIICA
 </div>
 </body>
 </html>

@@ -18,7 +18,8 @@ include_once("../connection.php");
 
 if(isset($_POST['Submit'])) {
     $title = $_POST['title'];
-    $picture = $_POST['picture'];
+    $picture = $_POST['image'];
+
     $description = $_POST['description'];
 
     // checking empty fields
@@ -39,10 +40,26 @@ if(isset($_POST['Submit'])) {
         //link to the previous page
         echo "<br/><a href='javascript:self.history.back();'>Go Back</a>";
     } else {
-        // if all the fields are filled (not empty)
+
+        $target = " /srv/http/NotAPortfolio/images/";
+        $target = $target . basename( $_FILES['picture']['name']);
+        $picture = $_POST['picture']['name'];
+        $result = mysqli_query($mysqli, "INSERT INTO project(title, picture, description, created_at) VALUES('$title','$picture','$description','2020-05-01')");
+
+        if(move_uploaded_file($_FILES['picture']['tmp_name'],$target))
+        {
+            echo "The file ". basename( $_FILES['uploadedfile']
+                ['name']). " has been uploaded, and your information has been added to the directory";
+        }
+        else {
+
+            echo "Sorry, there was a problem uploading your file.";
+        }
+
+
+
 
         //insert data to database
-        $result = mysqli_query($mysqli, "INSERT INTO project(title, picture, description, created_at) VALUES('$title','$picture','$description','2020-05-01')");
 
         //display success message
         echo "<font color='green'>Project added successfully.";
